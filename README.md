@@ -61,7 +61,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Important notice
 
-This is only development environment for testing/recruitment purposes, not fully prepared to fully functional production app. due to time limits test will be added to the respository later.
+This is only development environment for testing/recruitment purposes, not fully prepared for deployment. Due to time limits tests will be added later.
 
 ## Learn More
 
