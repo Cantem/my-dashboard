@@ -1,8 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-Instructions:
+## Instructions:
 1. After cloning this repo you should start with setting up and running a local postgres server, for more information please refer to:
 
 https://www.postgresql.org/docs/9.1/server-start.html
@@ -29,6 +27,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+## Available Scripts
 
 ### `npm test`
 
