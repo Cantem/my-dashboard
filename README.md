@@ -14,11 +14,15 @@ https://www.postgresql.org/docs/9.1/server-start.html
 ### `npm run db-build`
 ### `npm run db-populate`
 
-4. Now you can run:
+4. Add all dependencies
+
+### `npm install`
+
+5. Now you can run:
 
 ### `node server.js`
 
-5. And finally run:
+6. And finally run:
 
 ### `npm start`
 
