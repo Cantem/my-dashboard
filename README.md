@@ -1,22 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Instructions:
-1. After cloning this repo you should start with setting up and running a local postgres server, for more information please refer to:
+
+1. After cloning this repo let's add all the dependencies
+
+### `npm install`
+
+2. Then should start with setting up and running a local postgres server, for more information please refer to:
 
 https://www.postgresql.org/docs/9.1/server-start.html
 
-2. Once server is up and running use the below command to create a new database on the server:
+3. Once server is up and running use the below command to create a new database on the server:
 
 ### `createdb dashboard-app`
 
-3. Build and populate the database by running:
+4. Build and populate the database by running:
 
 ### `npm run db-build`
 ### `npm run db-populate`
-
-4. Add all dependencies
-
-### `npm install`
 
 5. Now you can run:
 
