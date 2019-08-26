@@ -10,8 +10,8 @@ export default () => (
     <Typography variant="h4">
       Welcome to My Dashboard!
     </Typography>
-    <DataTop />
     <DataWeekly />
+    <DataTop />
   </Fragment>
 
 );
