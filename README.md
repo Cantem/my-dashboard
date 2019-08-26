@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Instructions:
 1. After cloning this repo you should start with setting up and running a local postgres server, for more information please refer to:
 
-[https://www.postgresql.org/docs/9.1/server-start.html]
+https://www.postgresql.org/docs/9.1/server-start.html
 
 2. Once server is up and running use the below command to create a new database on the server:
 
